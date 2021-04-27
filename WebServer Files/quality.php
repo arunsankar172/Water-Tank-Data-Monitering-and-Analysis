@@ -32,7 +32,7 @@ tr:nth-child(even) {
 <?php
 $servername = "localhost";
 $username = "test";
-$password = "1234";
+$password = "";
 $dbname = "water_monetering";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
